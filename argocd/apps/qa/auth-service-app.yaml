@@ -13,7 +13,7 @@ spec:
   project: pharma
 
   source:
-    repoURL: https://github.com/Mohan8/zen-gitops.git
+    repoURL: https://github.com/Mohan8/zen-gitops-lab1.git
     targetRevision: HEAD
     path: helm-charts
     helm:
